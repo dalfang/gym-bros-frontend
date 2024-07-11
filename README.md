@@ -1,8 +1,26 @@
-# gym-bros workout planner
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/> 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# GymBros workout planner
+### A website for workout routine planner 
+Welcome to GymBros, Start your fitness journey here. 
 
-Currently, two official plugins are available:
+## Visit the website
+https://your-gym-bros.netlify.app/
+\* deployed with netlify.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Join Us
+Join our vibrant community of fitness enthusiasts and beginners. Start your journey today and live a healthier, more active life with GymBros!
+
+
+
+
+## Description
+- Single Page Application (SPA) with React and multiple views (Routes)
+- MERN Stack (MongoDB, Express, React and Node)
+ (Backend-server: [here](https://github.com/dalfang/gym-bros-backend.git))
+- Server Deployed with adaptable.io ([here](https://gym-bros.adaptable.app))
+- Workout target and progress bar tracker.
+- C.R.U.D. operations: create, read, update, and delete routine.
+
+## Tech stack
+ES6, CSS, Node, Vite, React, json-server, C.R.U.D.
